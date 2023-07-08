@@ -1,0 +1,51 @@
+body{
+    background-color:bisque;
+}
+.port{
+    color: black;
+    white-space: 1x;
+    cursor: pointer;
+    padding-left: 10%;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: rgb(1, 9, 9);
+    font-size: xx-large;
+    cursor: pointer;
+}
+nav ul li{
+    list-style-type:none;
+    display: inline;
+    padding: 10px 20px;
+    color: rgb(2, 14, 14);
+
+}
+.img{
+    padding-left: 230px;
+    border: 30px;
+}
+.align{
+    display: flex;
+    font-size: xx-large;
+}
+.name{
+    padding-left: 200px;
+}
+.about{
+    text-align: center;
+    font-size: x-large;
+}
+.image{
+    padding-left: 200px;
+    padding-right: 200px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.project{
+    text-align: center;
+    font-size: x-large;
+    display: flex;
+}
